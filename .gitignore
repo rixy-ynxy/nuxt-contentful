@@ -11,4 +11,7 @@ npm-debug.log
 dist
 .contentful.json
 yarn-error.log
+
 posts.json
+
+.firebase
