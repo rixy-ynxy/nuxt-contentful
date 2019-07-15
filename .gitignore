@@ -12,6 +12,7 @@ dist
 .contentful.json
 yarn-error.log
 yarn.lock
+package-lock.json
 
 posts.json
 
